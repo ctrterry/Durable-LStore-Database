@@ -75,7 +75,7 @@ python main.py
 
 Experimental analyses were conducted to measure transaction throughput, latency, and concurrency performance. Results demonstrate significant performance improvements compared to single-threaded implementations, especially under high load.
 
-*(Include performance graphs/screenshots here if available.)*
+![Throughput & Abort Graph](images/throughput_Data.png)
 
 ---
 
