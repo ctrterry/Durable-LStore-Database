@@ -40,6 +40,7 @@ This database engine supports concurrent transaction execution with strict isola
 
 ## Testing File Structure
 
+```
 tests/
 ├── milestone1/
 │   ├── test_insert_update_select.py
@@ -50,6 +51,7 @@ tests/
 └── milestone3/
     ├── test_multithreaded_transactions_insert.py
     └── test_multithreaded_transactions_update.py
+```
 
 ### Installation
 Clone the repository:
