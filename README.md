@@ -42,13 +42,13 @@ This database engine supports concurrent transaction execution with strict isola
 
 ```
 tests/
-├── milestone1/
+├── Project1/
 │   ├── test_insert_update_select.py
 │   └── test_basic_operations.py
-├── milestone2/
+├── Project2
 │   ├── test_persistent_storage_insert_update_select.py
 │   └── test_persistent_storage_verification.py
-└── milestone3/
+└── project3/
     ├── test_multithreaded_transactions_insert.py
     └── test_multithreaded_transactions_update.py
 ```
